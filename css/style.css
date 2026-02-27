@@ -354,5 +354,5 @@ a:hover{ opacity:.94; }
   display: block;
 }
 @media (max-width: 720px){
-  .brand-plate img{ height: 65px; }
+  .brand-plate img{ height: 90px; }
 }
