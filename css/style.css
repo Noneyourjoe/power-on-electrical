@@ -349,10 +349,10 @@ a:hover{ opacity:.94; }
   border-color: rgba(0,0,0,0.08);
 }
 .brand-plate img{
-  height: 38px;
+  height: 70px;
   width: auto;
   display:block;
 }
 @media (max-width: 720px){
-  .brand-plate img{ height: 34px; }
+  .brand-plate img{ height: 50px; }
 }
