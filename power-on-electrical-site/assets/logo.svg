@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="56" viewBox="0 0 240 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Power on Electrical & Air Conditioning QLD logo">
+  <rect x="1" y="1" width="54" height="54" rx="14" fill="#0b0f14" stroke="rgba(255,255,255,0.18)" />
+  <path d="M28 10L20 30H30L24 46L40 24H30L36 10H28Z" fill="#f5c400"/>
+  <text x="68" y="24" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#0b0f14">Power-On</text>
+  <text x="68" y="44" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#5b6778">Electrical &amp; Air Con QLD</text>
+</svg>
