@@ -68,13 +68,10 @@ a:hover{ opacity:.94; }
 
 /* Header */
 .site-header{
-  position: fixed;        /* locks to top */
-  top: 0;
-  left: 0;
+  position: relative;   /* normal flow */
   width: 100%;
-  z-index: 1000;
-  background: #0b0f14;    /* solid background */
-  border-bottom: 2px solid #f5c400;  /* strong tradie accent line */
+  background: #0b0f14;  /* keep solid background */
+  border-bottom: 2px solid #f5c400;
 }
 [data-theme="light"] .site-header{ background: rgba(246,247,251,0.72); }
 
